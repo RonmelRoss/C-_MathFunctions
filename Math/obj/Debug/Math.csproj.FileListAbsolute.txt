@@ -1,0 +1,9 @@
+E:\Lab\Microsoft\DotNet\C#\Math\Math\bin\Debug\Math.exe.config
+E:\Lab\Microsoft\DotNet\C#\Math\Math\bin\Debug\Math.exe
+E:\Lab\Microsoft\DotNet\C#\Math\Math\bin\Debug\Math.pdb
+E:\Lab\Microsoft\DotNet\C#\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+E:\Lab\Microsoft\DotNet\C#\Math\Math\obj\Debug\Math.exe
+E:\Lab\Microsoft\DotNet\C#\Math\Math\obj\Debug\Math.pdb
+E:\Lab\Microsoft\DotNet\Git\Math\Math\bin\Debug\Math.exe.config
+E:\Lab\Microsoft\DotNet\Git\Math\Math\obj\Debug\Math.exe
+E:\Lab\Microsoft\DotNet\Git\Math\Math\obj\Debug\Math.pdb
